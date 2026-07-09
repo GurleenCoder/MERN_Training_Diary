@@ -1,6 +1,6 @@
 # Day 06 – CSS Grid Layout
 
-**Date:** 28 June 2026
+**Date:** 30 June 2026
 
 ## Objective
 
