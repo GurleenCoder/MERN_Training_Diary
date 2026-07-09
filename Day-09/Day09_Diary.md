@@ -1,6 +1,6 @@
 # Day 09 – JavaScript Functions
 
-**Date:** 01 July 2026
+**Date:** 03 July 2026
 
 ## Objective
 
