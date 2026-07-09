@@ -1,6 +1,6 @@
 # Day 08 – Conditional Statements and Loops in JavaScript
 
-**Date:** 30 June 2026
+**Date:** 02 July 2026
 
 ## Objective
 
