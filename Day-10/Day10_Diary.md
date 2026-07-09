@@ -1,6 +1,6 @@
 # Day 10 – JavaScript Strings and String Methods
 
-**Date:** 02 July 2026
+**Date:** 06 July 2026
 
 ## Objective
 
