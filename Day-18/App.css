@@ -1,0 +1,10 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  color: #1e88e5;
+  margin-bottom: 20px;
+}
